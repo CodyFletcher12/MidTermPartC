@@ -61,8 +61,9 @@ public class UserProfile
         this.genre = genre;
     }
     
-    
-    
+    //Adding comments
+    //This is the mid term
+    //My name is Cody
     
     
 }//end class
